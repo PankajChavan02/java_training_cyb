@@ -1,0 +1,2 @@
+2021-10-05 09:01:38,043 [main] ERROR com.cybage.log4j.App - This is error message
+2021-10-05 09:01:38,046 [main] FATAL com.cybage.log4j.App - This is fatal message

@@ -1,0 +1,4 @@
+2021-10-04 12:15:33 ERROR XmlApproach:20 - This is error message
+2021-10-04 12:15:33 FATAL XmlApproach:21 - This is fatal message
+2021-10-04 12:21:33 ERROR TestXmlApproach:20 - This is error message
+2021-10-04 12:21:33 FATAL TestXmlApproach:21 - This is fatal message
